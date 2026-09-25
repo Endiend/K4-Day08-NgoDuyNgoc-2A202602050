@@ -1,0 +1,10 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0182.jpg,car 197, xe tối gần mép trái,added, thấy đèn và phần đuôi xe
+2,frame_0182.jpg,car 198, xe tối gần mép trái,added, thấy thân xe và đuôi xe
+3,frame_0182.jpg,car 199, xe tối gần mép trái,added, thấy phần đuôi xe và thấy mờ phần thân xe
+4,frame_0182.jpg,car 32,edited, máy khoanh thiếu 1 phần kính xe
+5,frame_0187.jpg,car 51,edited, máy chỉ khoanh 1 phần nhỏ của thân xe sửa lại thành cả xe
+6,frame_0312.jpg,car 89,edited, máy gộp vài xe gần lại thành 1, sửa lại thành 1 xe
+7,frame_0326.jpg,car 105,deleted, máy khoanh vào khoảng không
+8,frame_0331.jpg,car 122 +123+126,deleted 123+126, máy khoanh 3 lần với 1 ô tô
+9,frame_0369.jpg,car 10540,deleted, chỉ thấy bóng mờ không rõ ràng
